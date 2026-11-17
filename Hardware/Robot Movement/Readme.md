@@ -1,8 +1,10 @@
 # Drive System: JGA25-370 Encoder Motors and L298N Driver
  
 This section explains how we drove the SLRC 2026 robot accurately along the line. We used two **JGA25-370 geared DC motors with encoders** for the wheels, and an **L298N motor driver** to control them from the Arduino Mega.
- |<img width="50%" alt="image" src="https://github.com/user-attachments/assets/8039ce52-898d-42d2-887c-8ad3fde778b1" />|<img width="50%" alt="image" src="https://github.com/user-attachments/assets/d12bce83-93b0-4037-acf8-f8ac53576767" />|
- 
+ <p align="center">
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/8039ce52-898d-42d2-887c-8ad3fde778b1" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/d12bce83-93b0-4037-acf8-f8ac53576767" />
+ </p>
 ---
  
 ## Overview
