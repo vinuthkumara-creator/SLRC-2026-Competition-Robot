@@ -3,7 +3,7 @@ The Sri Lankan Robotics Challenge (SLRC) is one of the country's largest annual 
 
 <p align="center">
   <img width="48%" alt="image" src="https://github.com/user-attachments/assets/59440a73-1d0d-4d36-9aa5-7bc6fe46fe36" />
-  <img width="48%" height="1500" alt="image" src="https://github.com/user-attachments/assets/3e860d6f-9c48-4df6-bceb-54f04577208b" />
+  <img width="48%" alt="image" src="https://github.com/user-attachments/assets/3e860d6f-9c48-4df6-bceb-54f04577208b" />
 </p>
 ---
 
@@ -88,15 +88,21 @@ All code is written using the Arduino IDE.
 
 ```
 .
-├── docs/                 Pinout and documentation
-├── firmware/
-│   ├── competition/      Sketches used in the competition
-│   ├── tests/            Small sketches for testing each subsystem
-│   └── libraries/        Custom and required libraries
-├── hardware/
-│   └── mechanical/       3D models and design images
-└── media/
-    └── photos/           Photos of the robot
+├── Codes/
+│   ├── Competition Code.ino
+│   ├── PID_LineFollow.ino
+│   ├── WallFollowing.ino
+│   ├── apriltagdetection.py
+│   └── exe
+├── Hardware/
+│   ├── Grabbing mechanism/
+│   │   └── Readme.md
+│   └── Robot Movement/
+│       └── Readme.md
+├── docs/
+│   └── SLRC-2026-University-Category-Task (1).pdf
+├── LICENSE
+└── README.md
 ```
 
 ## Lessons learned
