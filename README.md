@@ -31,7 +31,7 @@ Team Members:
 - Yevin Perera
 - Tharusha Dambarage
 
-Having been able to explore lot of new things in the field of electronics during the time, I worked with another team for the Xbotix 2025 competition, this time in 2026, I have taken a step forward to build my own team, and participate in SLRC 2026. Although we could get over the elimination rounds, due to some beginner level issues and the academic workload we had to balance over the semester, we couldn't bring it to the level of success. But there were lot of new things, we got to learn from experience.  
+Having been able to explore lot of new things in the field of electronics during the time I worked with another team for the Xbotix 2025 competition, this time in 2026, I have taken a step forward to build my own team, and participate in SLRC 2026. Although we could get over the elimination rounds, due to some beginner level issues and the academic workload we had to balance over the semester, we couldn't bring it to the level of success, we were exepecting. But there were lot of new things, we got to learn from experience.  
 
 ## The competition
 The competition covered the following challenges:
